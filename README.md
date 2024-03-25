@@ -132,10 +132,6 @@ This project will undergo several enhancements to include
   - Open Ticket
   - Assigned Ticket
   - Closed Ticket
-- User role add ons:
-  - User can reset password
-- Support screenshots
-- TBD
 
 ## SOURCES
 
