@@ -21,9 +21,9 @@ function Popup(){
                             </div>
                             <div>
                             <h2>email: <span>admin@gmail.com</span></h2>
-                            <h2>password: <span>12345</span></h2><br />
+                            <h2>password: <span>admin1@55555</span></h2><br />
                             <h2>email: <span>admin2@gmail.com</span></h2>
-                            <h2>password: <span>abcde</span></h2>
+                            <h2>password: <span>admin2@101010</span></h2>
                             </div>
                         </div>
                     </div>:""
