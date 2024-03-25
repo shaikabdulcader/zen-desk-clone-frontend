@@ -76,22 +76,22 @@ Version Control
 ### Original Before
 
 <h3>Home page<h3/>
-<img src="" alt="homepage"/>
+<img src="https://github.com/shaikabdulcader/zendesk-frontend/blob/zendesk-frontend/src/assets/Screenshot%202024-03-25%20172316.png" alt="homepage"/>
 
 <h3>Create Request<h3/>
-<img src="" alt="CreateRequest"/>
+<img src="https://github.com/shaikabdulcader/zendesk-frontend/blob/zendesk-frontend/src/assets/Screenshot%202024-03-25%20172416.png" alt="CreateRequest"/>
 <h3>Admin Login<h3/>
-<img src="" alt="AdminLogin"/>
+<img src="https://github.com/shaikabdulcader/zendesk-frontend/blob/zendesk-frontend/src/assets/Screenshot%202024-03-25%20172519.png" alt="AdminLogin"/>
   <h3>Demo Account<h3/>
-<img src="" alt="demoaccount"/>
+<img src="https://github.com/shaikabdulcader/zendesk-frontend/blob/zendesk-frontend/src/assets/Screenshot%202024-03-25%20172537.png" alt="demoaccount"/>
 <h3>Open Ticket<h3/>
-<img src="" alt="Open Ticket"/>
+<img src="https://github.com/shaikabdulcader/zendesk-frontend/blob/zendesk-frontend/src/assets/Screenshot%202024-03-25%20172735.png" alt="Open Ticket"/>
 <h3>Assigned Ticket<h3/>
-<img src="" alt="Assigned Ticket"/>
+<img src="https://github.com/shaikabdulcader/zendesk-frontend/blob/zendesk-frontend/src/assets/Screenshot%202024-03-25%20172748.png" alt="Assigned Ticket"/>
 <h3>Closed Ticket<h3/>
-<img src="" alt="Closed Ticket"/>
+<img src="https://github.com/shaikabdulcader/zendesk-frontend/blob/zendesk-frontend/src/assets/Screenshot%202024-03-25%20172801.png" alt="Closed Ticket"/>
 <h3>Ticket Status<h3/>
-<img src="" alt="Ticket Status"/>
+<img src="https://github.com/shaikabdulcader/zendesk-frontend/blob/zendesk-frontend/src/assets/Screenshot%202024-03-25%20172833.png" alt="Ticket Status"/>
 
 
 
