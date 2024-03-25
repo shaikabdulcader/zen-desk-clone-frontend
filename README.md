@@ -24,14 +24,14 @@ The user must register and log into Support Ticket Services application and subm
 
 The format includes:
 
-- Problem Statement
-- Device and Version
-- Browser and Version
-- Reproduction Steps
-- Expected Outcome
-- Actual Outcome
-- Notes
-- Screenshot
+- Technical Support
+- Product Inquiries
+- Billing and Accounts
+- Complaints
+- General Inquiries
+- Order Support
+- Technical Issues
+- Emergency Support
 
 A staff member will see the list of tickets as a "new" and address the issue and create a note on the ticket as they are working through the debugging process. The steps for the staff member to solve the issue are included in this order:
 
@@ -69,29 +69,30 @@ Version Control
 
 ## LAUNCH
 
-[Deployed](https://supportdesk-8110.onrender.com/)
-
-Support Ticket Services launched on Heroku on 4-29-2022
+[Deployed](https://zen-desk-fsd.netlify.app/)
 
 ## ILLUSTRATIONS
 
 ### Original Before
 
-Home page
-![ogHome](./client/src/assets/ogHome.png)
+<h3>Home page<h3/>
+<img src="" alt="homepage"/>
 
-Login Page
-![ogLogin](./client/src/assets/ogLogin.png)
-Register Page
-![ogRegister](./client/src/assets/ogRegister.png)
-New Ticket Page
-![ogNewTicket](./client/src/assets/ogNewTicket.png)
-View All Of Users Tickets Page
-![ogViewTickets](./client/src/assets/ogViewTickets.png)
-View One Ticket Page
-![ogTicket](./client/src/assets/ogTicket.png)
-Add A Note
-![ogNote](./client/src/assets/ogNote.png)
+<h3>Create Request<h3/>
+<img src="" alt="CreateRequest"/>
+<h3>Admin Login<h3/>
+<img src="" alt="AdminLogin"/>
+  <h3>Demo Account<h3/>
+<img src="" alt="demoaccount"/>
+<h3>Open Ticket<h3/>
+<img src="" alt="Open Ticket"/>
+<h3>Assigned Ticket<h3/>
+<img src="" alt="Assigned Ticket"/>
+<h3>Closed Ticket<h3/>
+<img src="" alt="Closed Ticket"/>
+<h3>Ticket Status<h3/>
+<img src="" alt="Ticket Status"/>
+
 
 
 ## SCOPE OF FUNCTIONALITIES
@@ -110,7 +111,6 @@ Add A Note
 
 - Create a ticket
 - View a ticket
-- 
 ### An admin user will have future enhancements implemented see [Roadmap](#roadmap)
 
 ## EXAMPLE OF USE
@@ -134,8 +134,6 @@ This project will undergo several enhancements to include
   - Closed Ticket
 - User role add ons:
   - User can reset password
-  - User can delete account
-  - User history snapshot 45 days
 - Support screenshots
 - TBD
 
