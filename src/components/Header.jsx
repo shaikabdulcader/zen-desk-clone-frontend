@@ -14,7 +14,7 @@ function Header() {
           <Nav className="me-auto">
             <Nav.Link onClick={()=>navigate("/")}className='text-white'>Home</Nav.Link>
             <Nav.Link onClick={()=>navigate("/create")}className='text-white'>Create Request</Nav.Link>
-            <Nav.Link onClick={()=>navigate("/status")}className='text-white'>Ticket Status</Nav.Link>
+            {/* <Nav.Link onClick={()=>navigate("/status")}className='text-white'>Ticket Status</Nav.Link> */}
             <Nav.Link onClick={()=>navigate("/login")}className='text-primary'>Admin Login</Nav.Link>
           </Nav>
         </Navbar.Collapse>
